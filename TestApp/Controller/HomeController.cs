@@ -11,5 +11,6 @@ namespace TestApp.Controller
     [ApiController]
     public class HomeController : ControllerBase
     {
+        //method 1
     }
 }

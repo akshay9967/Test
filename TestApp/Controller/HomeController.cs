@@ -12,6 +12,7 @@ namespace TestApp.Controller
     public class HomeController : ControllerBase
     {
         //method 1
+        //method 2
         //method 4
     }
 }
